@@ -11,5 +11,5 @@ function sendNotification(email) {
     }
 
 }
-console.log(sendNotification('mina@jul4010gmail.com'));
+console.log(sendNotification('minajul4010@gmail.com'));
 
